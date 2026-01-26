@@ -1,0 +1,61 @@
+
+.sacramento-regular {
+  font-family: "Sacramento", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(70, 62, 62); 
+}
+
+.board-container{
+  margin: 70px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  
+}
+.afterch{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.Btn{
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: aqua;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.row-box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+h2{
+    font-family: "Sacramento", cursive;
+    font-size: 3rem;
+    color: aqua;
+}
+.cont-box{
+  color: crimson;
+}
