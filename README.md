@@ -1,33 +1,49 @@
-# Tic Tac Toe
+# 🎯 Tic Tac Toe — React Game
 
-A classic Tic Tac Toe game built with **React.js**. Play against another player on the same device.
+![React](https://img.shields.io/badge/React-19.2.3-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+
+A fun and interactive **Tic Tac Toe** game built using **React.js**, designed with a clean UI and smooth gameplay. Play with a friend on the same device and relive the classic game with a modern touch.
+
+[Explore the Code](https://github.com/Ankitarai27/Tic_Tac_Toe) • [Report Bug](https://github.com/Ankitarai27/Tic_Tac_Toe/issues)
+
+---
 
 ## Overview
 
-This is a simple yet interactive implementation of the traditional Tic Tac Toe game using modern React.js technology. The game features a responsive UI and game state management to track moves and determine the winner.
+It’s a performance-optimized implementation focusing on clean component architecture and fluid state management. Whether you're playing on a desktop or a mobile device, the experience remains buttery smooth.
 
-## Features
+---
 
-- ✨ Two-player gameplay
-- 🎮 Interactive game board
-- 🏆 Winner detection
-- 🔄 Game reset functionality
-- 📱 Responsive design
-- ⚡ Built with React.js (v19)
+## 🚀 Features
 
-## Tech Stack
+✔️ Two-player local gameplay (X vs O)  
+✔️ Interactive and responsive game board  
+✔️ Automatic winner detection  
+✔️ Draw detection  
+✔️ One-click game reset  
+✔️ Clean UI with smooth interactions  
+✔️ Fully responsive for all screen sizes 
 
-- **React.js** v19.2.3
-- **React DOM** v19.2.3
-- **CSS3** for styling
-- **Testing Library** for component testing
+---
 
-## Installation
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+| :--- | :--- |
+| **React.js v19** | UI Library & State Management |
+| **CSS3** | Custom animations & Modern Layouts |
+| **Testing Library** | Ensuring component reliability |
+| **Node.js** | Development Environment |
+
+---
+
+## 📥 Installation & Setup
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Ankitarai27/Tic_Tac_Toe.git
-   cd Tic_Tac_Toe
    ```
 
 2. **Navigate to the project directory:**
@@ -39,8 +55,10 @@ This is a simple yet interactive implementation of the traditional Tic Tac Toe g
    ```bash
    npm install
    ```
+   
+---
 
-## Running the Application
+## ▶️ Running the Application
 
 ### Start Development Server
 
@@ -66,7 +84,9 @@ npm test
 
 Launches the test runner in interactive watch mode.
 
-## How to Play
+---
+
+## 🎮 How to Play
 
 1. **Game Start:** The game starts with Player X
 2. **Making Moves:** Click on any empty square to place your mark (X or O)
@@ -74,7 +94,9 @@ Launches the test runner in interactive watch mode.
 4. **Draw:** If all 9 squares are filled with no winner, the game is a draw
 5. **Reset:** After game ends, click the reset button to start a new game
 
-## Project Structure
+--- 
+
+## 📂 Project Structure
 
 ```
 tic-tac-toe/
@@ -94,29 +116,32 @@ tic-tac-toe/
 ├── package.json
 └── README.md
 ```
+---
 
-## Component Breakdown
+## 🧩 Component Overview
 
 - **App.js:** Main application component that renders the Tic Tac Toe board
 - **Board.jsx:** Manages the game state, player turns, winner detection, and game logic
 - **Squares.jsx:** Represents individual squares on the game board
 
-## Browser Support
+---
+
+## 🌐 Browser Compatibility
 
 - Chrome (latest)
 - Firefox (latest)
 - Safari (latest)
 
-## Contributing
+---
+
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
 - Report bugs
 - Suggest improvements
 - Submit pull requests
 
-## License
-
-This project is open source and available under the MIT License.
+---
 
 ## Author
 
