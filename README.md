@@ -1,6 +1,7 @@
 # 🎯 Tic Tac Toe — React Game
 
 ![React](https://img.shields.io/badge/React-19.2.3-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 A fun and interactive **Tic Tac Toe** game built using **React.js**, designed with a clean UI and smooth gameplay. Play with a friend on the same device and relive the classic game with a modern touch.
